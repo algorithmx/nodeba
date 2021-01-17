@@ -1,0 +1,19 @@
+--------------- PROGRAM OUTPUT ----------------
+***** Time now 0 **  2326138612695996
+addprocs starts at : 2326143902960053
+addprocs finishes at : 2326160974197460
+check_distributed_env starts at : 2326160975358899
+check_distributed_env ends at : 2326162132672460
+***** Time now 1 **  2326162142351279
+***** Time now 3 **  2326162188853929
+***** Time now 4 **  2326241264179139
+pfindpi(192_000_000_000) costs :
+ 41.327137 seconds (2.52 M allocations: 59.648 MiB)
+k = 3.141592419985625
+***** Time now 5 **  2326283094322162
+pfindpi(192_000_000_000) costs :
+ 41.380210 seconds (2.05 M allocations: 34.409 MiB)
+k = 3.141591678905625
+***** Time now 6 **  2326324488096596
+***** Time now 7 **  2326325934104317
+--------------- PROGRAM COMPLETED--------------
